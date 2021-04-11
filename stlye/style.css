@@ -1,0 +1,141 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+   overflow-x: hidden;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat-Bold";
+}
+
+ #mainsection {
+  /* margin-top: 20px; */
+  margin-bottom: 20px;
+
+}
+
+
+.big-heading {
+  font-family: "Montserrat-Black";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.nav {
+  background-color: #212121;
+}
+
+.navbarr {
+  padding-left: 100px;
+  padding-right: 80px;
+}
+
+.nav-link {
+  color: #E0E0E0;
+}
+
+.logonav {
+  padding-left: 50px;
+  padding-right: 80px;
+}
+
+.nav-item {
+  padding: 10px 40px 10px 10px;
+}
+
+.nav-itemicon {
+  padding-left: 20px;
+}
+
+.basket {
+  color: #E0E0E0;
+}
+
+.alertright{
+  height: 50px;
+  background-color: #515151;
+  color: #E0E0E0;
+
+}
+.alertText{
+  font-weight: 700;
+letter-spacing: 2px;
+padding-top: 10px;
+
+}
+
+.alertleft{
+  height: 50px;
+  background-color:#E0E0E0;
+
+
+}
+.icon {
+  color: #E0E0E0;
+}
+
+.search {
+  border-radius: 50%;
+}
+
+.test1 {
+
+  background-color:  #212121;
+  position: relative;
+
+}
+.shopbeauty{
+    background-color:  #16213e;
+  position: absolute;
+   top: 80%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+
+}
+.shopbeauty:hover{
+  background-color:  #212121;
+}
+.ShopClothes{
+  position: absolute;
+   top: 80%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
+
+
+.test2 {
+  background-color: #E0E0E0;
+    position: relative;
+}
+
+.Showcase1{
+  padding-top: 12px;
+  width: 100%;
+  padding-bottom: 12px;
+}
+
+/* footer csss goes here  */
+footer {
+  text-align: left;
+  background-color: #212121;
+  color: #E0E0E0;
+
+
+}
+.fotercontentholder{
+  padding-top: 20px
+}
+
+.footericon {
+  padding: 10px 10px 10px 60px;
+}
+
+.footericonholder{
+margin-left:420px;
+}
+
+.footerA {
+  color: #E0E0E0;
+  text-decoration: none;
+}

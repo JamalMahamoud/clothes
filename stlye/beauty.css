@@ -1,0 +1,67 @@
+.banner {
+  height: 450px;
+  background-color: #212121;
+}
+
+.midbanner {
+  height: 450px;
+  background-color: #E0E0E0;
+}
+
+.firstimage1 {
+  background-color: #E0E0E0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  /*height: 520px;*/
+  /*width: 513px;*/
+  margin-right: 0px;
+  position: relative;
+}
+
+.firstimage2 {
+  background-color: #E0E0E0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  /*height: 520px;*/
+  /*width: 513px;*/
+  margin-left: 0px;
+  position: relative;
+
+}
+
+.bshopbeauty{
+  position: absolute;
+  position: absolute;
+   top: 80%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
+
+
+.beautyalertright{
+  height: 50px;
+  background-color:#ff5e3a;
+  color:#212121;
+
+
+}
+.alertText{
+  font-weight: 700;
+letter-spacing: 2px;
+padding-top: 10px;
+
+}
+
+.beautyalertleft{
+  height: 50px;
+  background-color:#845ec2;
+  color: #E0E0E0;
+
+}
+.icon {
+  color:#ff5e3a;
+}
+
+.Showcaseimg{
+  width: 100%;
+}

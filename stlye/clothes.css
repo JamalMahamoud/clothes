@@ -1,0 +1,40 @@
+.banner{
+  height: 450px;
+  background-color:  #212121;
+}
+.midbanner{
+  height: 450px;
+background-color: #E0E0E0;
+}
+.firstimage1{
+background-color: #E0E0E0;
+height: 492px;
+border-radius: 20px;
+width: 513px;
+margin-left: 100px;
+}
+.firstimage2{
+background-color: #E0E0E0;
+height: 492px;
+border-radius: 20px;
+width: 513px;
+margin-right:100px;
+
+
+}
+
+.secondimage{
+background-color:  #212121;
+height: 492px;
+border-radius: 20px;
+
+
+}
+
+.thirdimage{
+background-color:  #212121;
+height: 492px;
+border-radius: 20px;
+
+
+}
